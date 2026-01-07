@@ -6,7 +6,6 @@ The project is part of an effort to support and revive the low-resource Tankri s
 ## 📌 Features
 
 -> End-to-end Transformer Seq2Seq model (Encoder–Decoder)
-
 -> Custom tokenization, vocabulary building, and padding
 
 -> Positional Encoding implementation from scratch
